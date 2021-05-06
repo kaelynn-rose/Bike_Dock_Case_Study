@@ -12,3 +12,8 @@ Next, I cleaned up the start-times and stop-times in trips dataset. I converted 
 
 After cleaning and pre-processing the data, I began exploratory data analysis to inform my goal of determining underutilized and over-utilized bike stations.
 
+I plotted rides vs. time and trip distance to get a sense of ride trends over time:
+![plot](./figures/rides_vs_time.png) 
+
+I also plotted rides per hour of the day, to see whether commuting was a factor in bike rentals. Indeed, we can see from the plot that around 5-9 am each day there are more people taking bicycles than returning them, then a lull in the middle of the day where many people returned their bikes after getting to work, and then an increase in taking bikes around 3-4pm and an increase in returning bikes after returning home for the day from 5-12pm:
+![plot](./figures/rides_per_hour.png) 
