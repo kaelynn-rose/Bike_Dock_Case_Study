@@ -59,3 +59,5 @@ The stations with the highest utilizations are: 'LaSalle St & Jackson Blvd', 'La
 'Museum Campus', 'Wabash Ave & Grand Ave', 'Canal St & Madison St', 'Streeter Dr & Illinois St', 
 'Lake Shore Dr & North Blvd', 'Michigan Ave & Oak St', 'Theater on the Lake','Lake Shore Dr & Monroe St'
 ```
+
+As a result of this analysis, I recommend adding additional bike docks to the highest utilization stations, depending on budget, starting with the stations with the highest utilization ratio. I recommend not adding any additional bike docks to the stations with lowest utilization.
