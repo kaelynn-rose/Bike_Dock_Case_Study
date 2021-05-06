@@ -42,7 +42,17 @@ I then took the top 10% and the bottom 10% of each list, so that I had the 10% m
 
 Here are the names of the most under-utilized and most over-utilized stations:
 ```
-The stations with the lowest utilizations are: 'Indiana Ave & 40th St', 'Cottage Grove Ave & 47th St', 'Cottage Grove Ave & 51st St', 'Western Ave & 24th St', 'Ashland Ave & 21st St', 'Damen Ave & Coulter St', 'MLK Jr Dr & Oakwood Blvd', 'Calumet Ave & 35th St', 'Racine Ave & 13th St', 'California Ave & 21st St', 'Cottage Grove Ave & 43rd St', 'MLK Jr Dr & 47th St', 'State St & 29th St', 'Halsted St & 37th St', 'Wallace Ave & 35th St', 'Prairie Ave & Garfield Blvd', 'Ashland Ave & 13th St', 'Western Ave & 21st St', 'Greenwood Ave & 47th St', 'Halsted St & 35th St', 'Wentworth Ave & 24th St', 'May St & Cullerton St', 'State St & 35th St', 'Damen Ave & Cullerton St', 'Indiana Ave & 26th St', 'Normal Ave & Archer Ave', 'Calumet Ave & 33rd St', 'Cottage Grove Ave & Oakwood Blvd', 'Paulina St & Montrose Ave', 'Halsted St & 21st St'
+The stations with the lowest utilizations are: 'Indiana Ave & 40th St', 'Cottage Grove Ave & 47th St', 'Cottage Grove Ave & 51st St', 
+'Western Ave & 24th St', 'Ashland Ave & 21st St', 'Damen Ave & Coulter St', 'MLK Jr Dr & Oakwood Blvd', 'Calumet Ave & 35th St', 
+'Racine Ave & 13th St', 'California Ave & 21st St', 'Cottage Grove Ave & 43rd St', 'MLK Jr Dr & 47th St', 'State St & 29th St', 'Halsted St & 37th St', 
+'Wallace Ave & 35th St', 'Prairie Ave & Garfield Blvd', 'Ashland Ave & 13th St', 'Western Ave & 21st St', 'Greenwood Ave & 47th St', 'Halsted St & 35th St',
+'Wentworth Ave & 24th St', 'May St & Cullerton St', 'State St & 35th St', 'Damen Ave & Cullerton St', 'Indiana Ave & 26th St', 'Normal Ave & Archer Ave',
+'Calumet Ave & 33rd St', 'Cottage Grove Ave & Oakwood Blvd', 'Paulina St & Montrose Ave', 'Halsted St & 21st St'
 
-The stations with the highest utilizations are: 'LaSalle St & Jackson Blvd', 'LaSalle St & Illinois St', 'St Clair St & Erie St', 'State St & Erie St', 'Millennium Park', 'Lake Shore Dr & Ohio St', 'McClurg Ct & Illinois St', 'Franklin St & Arcade Pl', 'Indiana Ave & Roosevelt Rd', 'Wabash Ave & Wacker Pl', 'Fort Dearborn Dr & 31st St', 'Dearborn St & Adams St', 'Fairbanks Ct & Grand Ave', 'Sheridan Rd & Irving Park Rd', 'Mies van der Rohe Way & Chicago Ave', 'Wells St & Concord Ln', 'Canal St & Adams St', 'Clark St & Elm St', 'Clinton St & Washington Blvd', 'State St & Kinzie St', 'Museum Campus', 'Wabash Ave & Grand Ave', 'Canal St & Madison St', 'Streeter Dr & Illinois St', 'Lake Shore Dr & North Blvd', 'Michigan Ave & Oak St', 'Theater on the Lake', 'Lake Shore Dr & Monroe St'
+The stations with the highest utilizations are: 'LaSalle St & Jackson Blvd', 'LaSalle St & Illinois St', 'St Clair St & Erie St', 'State St & Erie St',
+'Millennium Park', 'Lake Shore Dr & Ohio St', 'McClurg Ct & Illinois St', 'Franklin St & Arcade Pl', 'Indiana Ave & Roosevelt Rd', 'Wabash Ave & Wacker Pl',
+'Fort Dearborn Dr & 31st St', 'Dearborn St & Adams St', 'Fairbanks Ct & Grand Ave', 'Sheridan Rd & Irving Park Rd', 'Mies van der Rohe Way & Chicago Ave',
+'Wells St & Concord Ln', 'Canal St & Adams St', 'Clark St & Elm St', 'Clinton St & Washington Blvd', 'State St & Kinzie St', 'Museum Campus', 
+'Wabash Ave & Grand Ave', 'Canal St & Madison St', 'Streeter Dr & Illinois St', 'Lake Shore Dr & North Blvd', 'Michigan Ave & Oak St', 'Theater on the Lake',
+'Lake Shore Dr & Monroe St'
 ```
