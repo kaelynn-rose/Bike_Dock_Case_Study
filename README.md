@@ -40,6 +40,8 @@ I then took the top 10% and the bottom 10% of each list, so that I had the 10% m
 
 ![plot](./figures/overutilized_vs_underutilized_stations.png) 
 
+This graph of under-utilized vs. over-utilized stations may also be useful for determining where bikes need to be moved to get to customers that need them, for example at station 35 on the over-utilization graph we can see that many more bikes are returned to this station than taken from it. The city planners may want to organize bike pickups from this station at certain time intervals and drop the bikes off at other stations where there is a higher rate of people taking bikes than returning them, to ensure bikes remain in circulation.
+
 Here are the names of the most under-utilized and most over-utilized stations:
 ```
 The stations with the lowest utilizations are: 'Indiana Ave & 40th St', 'Cottage Grove Ave & 47th St',
@@ -60,4 +62,6 @@ The stations with the highest utilizations are: 'LaSalle St & Jackson Blvd', 'La
 'Lake Shore Dr & North Blvd', 'Michigan Ave & Oak St', 'Theater on the Lake','Lake Shore Dr & Monroe St'
 ```
 
-As a result of this analysis, I recommend adding additional bike docks to the highest utilization stations, depending on budget, starting with the stations with the highest utilization ratio. I recommend not adding any additional bike docks to the stations with lowest utilization.
+### Conclusion
+
+As a result of this analysis, I recommend adding additional bike docks to the highest utilization stations, depending on budget, starting with the stations with the highest utilization ratio. I recommend not adding any additional bike docks to the stations with lowest utilization. Adding additional bike docks at over-utilized stations may result in an increase in ridership during the winter months (where ridership is currently much lower than summer months), since users would not have to walk as far to pick up or return a bicycle if the station closest to them had bikes available for them to use or space to return the bike they borrowed.  
